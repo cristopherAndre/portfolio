@@ -15,6 +15,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 </head>
+
+<link href="${appContext }/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
 <body>
 
 	<h2>${titleLabel }</h2>
