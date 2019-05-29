@@ -154,10 +154,11 @@
 										<h5><span><i class="icon ion-email"></i></span>cristopher.andre@hotmail.com</h5>
 									</div>
 									<div class="clear-fix"></div>
-									
+									<!--
 									<a href="#0" data-scroll-nav="5">
 										<span class="butn butn-bord">View Work</span>
 									</a>
+									-->
 									<a href="#0" data-scroll-nav="7">
 										<span class="butn butn-bg">Hire Me</span>
 									</a>

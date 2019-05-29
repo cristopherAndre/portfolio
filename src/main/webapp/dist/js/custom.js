@@ -80,7 +80,7 @@ $(function() {
 
     // typejs
     $('.header .caption h3').typed({
-        strings: ["Web Developer", "UI/UX  Designer", "Photography"],
+        strings: ["Systems Analyst", "Web Developer", "Mobile Developer", "JAVA Developer", "Project Manager"],
         loop: true,
         startDelay: 1000,
         backDelay: 1000,
