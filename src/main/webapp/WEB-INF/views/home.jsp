@@ -92,7 +92,7 @@
 		      
 			  <!-- links -->
 		      <ul class="nav navbar-nav navbar-right">
-		        <li><a href="#" data-scroll-nav="0" class="active">Home</a></li>
+		        <li><a href="#" data-scroll-nav="0" class="active">Home2</a></li>
 		        <li><a href="#" data-scroll-nav="1">About</a></li>
 		        <li><a href="#" data-scroll-nav="2">Resume</a></li>
 		        <li><a href="#" data-scroll-nav="3">Services</a></li>
