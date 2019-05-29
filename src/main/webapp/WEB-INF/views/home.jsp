@@ -20,31 +20,31 @@
 		<meta name="keywords" content="portfolio, personal, corporate, business, parallax, creative, agency">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link href="img/favicon.ico" rel="icon" type="image/png">
+        <link href="${appContext }/dist/img/favicon.ico" rel="icon" type="image/png">
 
 		<!-- bootstrap css -->
-		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="${appContext }/dist/css/bootstrap.min.css">
 
 		<!-- google fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Muli:200,300,400,600,700,,800,900|Josefin+Sans:300,400,600,700" rel="stylesheet">
 
 		<!-- owl carousel CSS -->
-		<link rel="stylesheet" href="css/owl.carousel.min.css">
-		<link rel="stylesheet" href="css/owl.theme.default.min.css">
+		<link rel="stylesheet" href="${appContext }/dist/css/owl.carousel.min.css">
+		<link rel="stylesheet" href="${appContext }/dist/css/owl.theme.default.min.css">
 
 		<!-- magnific-popup CSS -->
-		<link rel="stylesheet" href="css/magnific-popup.css">
+		<link rel="stylesheet" href="${appContext }/dist/css/magnific-popup.css">
 
 		<!-- Font Icon Core CSS -->
-		<link rel="stylesheet" href="css/font-awesome.min.css">
-		<link rel="stylesheet" href="css/et-line.css">
-		<link rel="stylesheet" href="css/ionicons.min.css">
+		<link rel="stylesheet" href="${appContext }/dist/css/font-awesome.min.css">
+		<link rel="stylesheet" href="${appContext }/dist/css/et-line.css">
+		<link rel="stylesheet" href="${appContext }/dist/css/ionicons.min.css">
 
 		<!-- Core Style Css -->
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="${appContext }/dist/css/style.css">
 
         <!--[if lt IE 9]-->
-		<script src="js/html5shiv.min.js"></script>
+		<script src="${appContext }/dist/js/html5shiv.min.js"></script>
 		<!--[endif]-->
     </head>
     <body>
@@ -79,7 +79,7 @@
 		      <!-- logo -->
 		      <a href="#">
 		      	<div class="logo">
-		      		<img src="img/logo.png" alt="logo">
+		      		<img src="${appContext }/dist/img/logo.png" alt="logo">
 		      	</div>
 		      </a>
 
@@ -125,7 +125,7 @@
 				<div class="row">
 					<div class="col-md-5">
 						<div class="hero-img">
-							<img src="img/hero.jpg" alt="hero">
+							<img src="${appContext }/dist/img/hero.jpg" alt="hero">
 						</div>
 					</div>
 					<div class="col-md-7">
@@ -451,41 +451,41 @@
 		<!--====== End Contact ======-->
        
         <!-- jQuery -->
-		<script src="js/jquery-3.0.0.min.js"></script>
-		<script src="js/jquery-migrate-3.0.0.min.js"></script>
+		<script src="${appContext }/dist/js/jquery-3.0.0.min.js"></script>
+		<script src="${appContext }/dist/js/jquery-migrate-3.0.0.min.js"></script>
 
 	  	<!-- bootstrap -->
-		<script src="js/bootstrap.min.js"></script>
+		<script src="${appContext }/dist/js/bootstrap.min.js"></script>
 
 		<!-- scrollIt -->
-		<script src="js/scrollIt.min.js"></script>
+		<script src="${appContext }/dist/js/scrollIt.min.js"></script>
 
 		<!-- magnific-popup -->
-		<script src="js/jquery.magnific-popup.min.js"></script>
+		<script src="${appContext }/dist/js/jquery.magnific-popup.min.js"></script>
 
 		<!-- owl carousel -->
-		<script src="js/owl.carousel.min.js"></script>
+		<script src="${appContext }/dist/js/owl.carousel.min.js"></script>
 
 		<!-- stellar js -->
-		<script src="js/jquery.stellar.min.js"></script>
+		<script src="${appContext }/dist/js/jquery.stellar.min.js"></script>
 
 		<!-- typed js -->
-      	<script src="js/typed.js"></script>
+      	<script src="${appContext }/dist/js/typed.js"></script>
 
       	<!-- jquery.waypoints.min js -->
-	  	<script src="js/jquery.waypoints.min.js"></script>
+	  	<script src="${appContext }/dist/js/jquery.waypoints.min.js"></script>
 
 	  	<!-- jquery.counterup.min js -->
-	  	<script src="js/jquery.counterup.min.js"></script>
+	  	<script src="${appContext }/dist/js/jquery.counterup.min.js"></script>
 
       	<!-- isotope.pkgd.min js -->
-      	<script src="js/isotope.pkgd.min.js"></script>
+      	<script src="${appContext }/dist/js/isotope.pkgd.min.js"></script>
 
       	<!-- validator js -->
-      	<script src="js/validator.js"></script>
+      	<script src="${appContext }/dist/js/validator.js"></script>
 
       	<!-- custom script -->
-        <script src="js/custom.js"></script>
+        <script src="${appContext }/dist/js/custom.js"></script>
 
     </body>
 
