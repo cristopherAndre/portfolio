@@ -897,10 +897,11 @@ p{
 -------------------------------------------------------- */
 
 .hire{
-	background-image: url(../img/3.jpg);
+	//background-image: url(../img/3.jpg);
 	background-attachment: fixed;
 	background-size: cover;
 	position: relative;
+	background-color: #907dcf;
 
 	&:after{
 		content: "";
@@ -909,7 +910,7 @@ p{
 		bottom: 0;
 		right: 0;
 		left: 0;
-		background: rgba(0,0,0,.8);
+		//background: rgba(0,0,0,.8);
 		z-index: 1;
 	}
 
@@ -1491,7 +1492,7 @@ p{
 
 	.copy{
 		margin-top: 80px;
-		color: #a3a3a3;
+		color: #ffffff;
 		font-size: 11px;
 		text-transform: uppercase;
 		letter-spacing: 1px;

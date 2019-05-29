@@ -184,7 +184,7 @@
 						<div class="col-md-6">
 							<div class="item">
 								<h6>Project Management</h6>
-								<div class="skills-progress"><span data-value='90%'></span></div>
+								<div class="skills-progress"><span data-value='80%'></span></div>
 							</div>
 							<div class="item">
 								<h6>Mobile Development</h6>
