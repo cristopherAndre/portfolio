@@ -28,16 +28,18 @@
 		<!-- google fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Muli:200,300,400,600,700,,800,900|Josefin+Sans:300,400,600,700" rel="stylesheet">
 
-		<!-- owl carousel CSS -->
+		<!-- owl carousel CSS 
 		<link rel="stylesheet" href="${appContext }/dist/css/owl.carousel.min.css">
 		<link rel="stylesheet" href="${appContext }/dist/css/owl.theme.default.min.css">
+		-->
 
-		<!-- magnific-popup CSS -->
+		<!-- magnific-popup CSS 
 		<link rel="stylesheet" href="${appContext }/dist/css/magnific-popup.css">
+		-->
 
 		<!-- Font Icon Core CSS -->
 		<link rel="stylesheet" href="${appContext }/dist/css/font-awesome.min.css">
-		<link rel="stylesheet" href="${appContext }/dist/css/et-line.css">
+		<!--<link rel="stylesheet" href="${appContext }/dist/css/et-line.css">-->
 		<link rel="stylesheet" href="${appContext }/dist/css/ionicons.min.css">
 
 		<!-- Core Style Css -->
@@ -462,10 +464,10 @@
 		<script src="${appContext }/dist/js/scrollIt.min.js"></script>
 
 		<!-- magnific-popup -->
-		<script src="${appContext }/dist/js/jquery.magnific-popup.min.js"></script>
+		<!--<script src="${appContext }/dist/js/jquery.magnific-popup.min.js"></script>-->
 
 		<!-- owl carousel -->
-		<script src="${appContext }/dist/js/owl.carousel.min.js"></script>
+		<!--<script src="${appContext }/dist/js/owl.carousel.min.js"></script>-->
 
 		<!-- stellar js -->
 		<script src="${appContext }/dist/js/jquery.stellar.min.js"></script>
