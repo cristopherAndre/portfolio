@@ -1182,12 +1182,13 @@ p {
                      Contact 
 -------------------------------------------------------- */
 .contact {
-  background-image: url(../img/4.jpg);
+  /*background-image: url(../img/4.jpg);*/
   background-size: cover;
   background-attachment: fixed;
   position: relative;
   padding-bottom: 50px;
   overflow: hidden;
+  background-color: #7159C1;
 }
 .contact:after {
   content: "";
@@ -1196,7 +1197,7 @@ p {
   bottom: 0;
   right: 0;
   left: 0;
-  background: rgba(0, 0, 0, 0.8);
+  /*background: rgba(0, 0, 0, 0.8);*/
   z-index: 1;
 }
 .contact .container {
