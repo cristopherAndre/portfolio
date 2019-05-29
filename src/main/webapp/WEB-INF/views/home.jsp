@@ -12,43 +12,41 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 
-
-    <head>
+	<head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Martin</title>
+        <title>Cristopher André</title>
        	<meta name="description" content="Martin is a responsive creative template">
 		<meta name="keywords" content="portfolio, personal, corporate, business, parallax, creative, agency">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link href="${appContext }/dist/img/favicon.ico" rel="icon" type="image/png">
+        <link href="img/favicon.ico" rel="icon" type="image/png">
 
 		<!-- bootstrap css -->
-		<link rel="stylesheet" href="${appContext }/dist/css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/bootstrap.min.css">
 
 		<!-- google fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Muli:200,300,400,600,700,,800,900|Josefin+Sans:300,400,600,700" rel="stylesheet">
 
 		<!-- owl carousel CSS -->
-		<link rel="stylesheet" href="${appContext }/dist/css/owl.carousel.min.css">
-		<link rel="stylesheet" href="${appContext }/dist/css/owl.theme.default.min.css">
+		<link rel="stylesheet" href="css/owl.carousel.min.css">
+		<link rel="stylesheet" href="css/owl.theme.default.min.css">
 
 		<!-- magnific-popup CSS -->
-		<link rel="stylesheet" href="${appContext }/dist/css/magnific-popup.css">
+		<link rel="stylesheet" href="css/magnific-popup.css">
 
 		<!-- Font Icon Core CSS -->
-		<link rel="stylesheet" href="${appContext }/dist/css/font-awesome.min.css">
-		<link rel="stylesheet" href="${appContext }/dist/css/et-line.css">
-		<link rel="stylesheet" href="${appContext }/dist/css/ionicons.min.css">
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/et-line.css">
+		<link rel="stylesheet" href="css/ionicons.min.css">
 
 		<!-- Core Style Css -->
-        <link rel="stylesheet" href="${appContext }/dist/css/style.css">
+        <link rel="stylesheet" href="css/style.css">
 
         <!--[if lt IE 9]-->
-		<script src="${appContext }/dist/js/html5shiv.min.js"></script>
+		<script src="js/html5shiv.min.js"></script>
 		<!--[endif]-->
     </head>
-    
     <body>
 
     	<!-- ====== Preloader ======  -->
@@ -81,7 +79,7 @@
 		      <!-- logo -->
 		      <a href="#">
 		      	<div class="logo">
-		      		<img src="${appContext }/dist/img/logo-light.png" alt="logo">
+		      		<img src="img/logo.png" alt="logo">
 		      	</div>
 		      </a>
 
@@ -92,13 +90,10 @@
 		      
 			  <!-- links -->
 		      <ul class="nav navbar-nav navbar-right">
-		        <li><a href="#" data-scroll-nav="0" class="active">Home2</a></li>
+		        <li><a href="#" data-scroll-nav="0" class="active">Home</a></li>
 		        <li><a href="#" data-scroll-nav="1">About</a></li>
 		        <li><a href="#" data-scroll-nav="2">Resume</a></li>
-		        <li><a href="#" data-scroll-nav="3">Services</a></li>
-		        <li><a href="#" data-scroll-nav="4">Clients</a></li>
-		        <li><a href="#" data-scroll-nav="5">Works</a></li>
-		        <li><a href="#" data-scroll-nav="6">Blog</a></li>
+		        <li><a href="#" data-scroll-nav="3">Knowledge</a></li>
 		        <li><a href="#" data-scroll-nav="7">Contact</a></li>
 		      </ul>
 		    </div><!-- /.navbar-collapse -->
@@ -113,7 +108,7 @@
 					<div class="v-middle">
 						<div class="caption">
 							<h4>Hello,</h4>
-							<h1>I Am Sam Martin</h1>
+							<h1>I Am Cristopher</h1>
 							<div class="type">
 								<h3></h3>
 							</div>
@@ -130,33 +125,33 @@
 				<div class="row">
 					<div class="col-md-5">
 						<div class="hero-img">
-							<img src="${appContext }/dist/img/hero.jpg" alt="hero">
+							<img src="img/hero.jpg" alt="hero">
 						</div>
 					</div>
 					<div class="col-md-7">
 						<div class="hero-content">
 							<h4 class="head-left">More Info About Me</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, ullamco laboris nisi ut aliquip ex ea commodo</p>
+							<p>Hi, I'm Cris, I've been working as a software developer for over 8 years, I'm a pro-active and responsible person, I like to work as a team and I'm passionate about technology. I'm always in search of new knowledge, I have already worked with some technologies such SAP Hybris, JAVA, Spring Framework, Hibernate, Java Server Pages, HTML/CSS, Sass, Gulp.js, JavaScript, Jquery, Bootstrap, Node.js, React, React Native and others. About my education, actually I have a Bachelor’s Degree in Systems Analysis and Development and Graduated Degree in Project Management.</p>
 							
 							<div class="info">
 								<div class="row">
 									<div class="col-md-4 col-sm-6">
-										<h5><span><i class="icon ion-person"></i></span>Sam Martin</h5>
+										<h5><span><i class="icon ion-person"></i></span>Cristopher André</h5>
 									</div>
 									<div class="col-md-4 col-sm-6">
-										<h5><span><i class="icon ion-calendar"></i></span>27 February 1990</h5>
+											<h5><span><i class="icon ion-code-working"></i></span>Developer</h5>
 									</div>
 									<div class="col-md-4 col-sm-6">
-										<h5><span><i class="icon ion-location"></i></span>Los Angeles, USA</h5>
+										<h5><span><i class="icon ion-calendar"></i></span>27 January 1992</h5>
 									</div>
 									<div class="col-md-4 col-sm-6">
-										<h5><span><i class="icon ion-email"></i></span>Martin@Gmail.com</h5>
+										<h5><span><i class="icon ion-location"></i></span>Dublin, Ireland</h5>
 									</div>
 									<div class="col-md-4 col-sm-6">
-										<h5><span><i class="icon ion-android-call"></i></span>+01( 23 ) 125 256 709</h5>
+										<h5><span><i class="icon ion-android-call"></i></span>+55 ( 47 ) 9 9612 5530</h5>
 									</div>
-									<div class="col-md-4 col-sm-6">
-										<h5><span><i class="icon ion-code-working"></i></span>Freelancer</h5>
+									<div class="col-md-6 col-sm-6">
+										<h5><span><i class="icon ion-email"></i></span>cristopher.andre@hotmail.com</h5>
 									</div>
 									<div class="clear-fix"></div>
 									
@@ -176,24 +171,23 @@
 					<div class="skills mt-100">
 						<div class="col-md-6">
 							<div class="item">
-								<h6>Web Design</h6>
+								<h6>Frontend Development</h6>
 								<div class="skills-progress"><span data-value='90%'></span></div>
 							</div>
 
 							<div class="item">
-								<h6>Graphic Design</h6>
-								<div class="skills-progress"><span data-value='80%'></span></div>
+								<h6>Backend Development</h6>
+								<div class="skills-progress"><span data-value='90%'></span></div>
 							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="item">
-								<h6>Graphic Design</h6>
-								<div class="skills-progress"><span data-value='80%'></span></div>
+								<h6>Project Management</h6>
+								<div class="skills-progress"><span data-value='90%'></span></div>
 							</div>
-
 							<div class="item">
-								<h6>Development</h6>
-								<div class="skills-progress"><span data-value='85%'></span></div>
+								<h6>Mobile Development</h6>
+								<div class="skills-progress"><span data-value='60%'></span></div>
 							</div>
 						</div>
 						<div class="clear-fix"></div>
@@ -243,37 +237,37 @@
 										<div class="row">
 											<div class="col-md-6">
 												<div class="inf text-right">
-													<span class="date">2016 - Present</span>
+													<span class="date">2019 - Present</span>
 												</div>
 											</div>
 											<div class="col-md-6">
 												<div class="cont pb-50">
-													<h6 class="sm-title">Art Director - Facebook Inc.</h6>
-													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna cillum dolore eu fugiat aliqua.</p>
+													<h6 class="sm-title">Exchange Student @ Dublin, Ireland</h6>
+													<p>I'm currently doing an exchange in Dublin, Ireland, studying English and seeking new knowledge and work experience.</p>
 												</div>
 											</div>
 
 											<div class="col-md-6 col-md-push-6">
 												<div class="inf">
-													<span class="date">2013 - 2016</span>
+													<span class="date">2012 - 2019</span>
 												</div>
 											</div>
 											<div class="col-md-6 col-md-pull-6">
 												<div class="cont text-right pb-50">
-													<h6 class="sm-title">Web Designer - Google Inc.</h6>
-													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna cillum dolore eu fugiat aliqua.</p>
+													<h6 class="sm-title">JAVA Developer @ WEG Eletric Motors</h6>
+													<p>I had the opportunity to be part of the WEG E-Commerce platform development team, where I was responsible for analyzing, creating specifications and developing new functionalities.</p>
 												</div>
 											</div>
 
 											<div class="col-md-6">
 												<div class="inf text-right">
-													<span class="date">2010 - 2013</span>
+													<span class="date">2008 - 2011</span>
 												</div>
 											</div>
 											<div class="col-md-6">
 												<div class="cont last">
-													<h6 class="sm-title">Senior Developer - Abc Inc.</h6>
-													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna cillum dolore eu fugiat aliqua.</p>
+													<h6 class="sm-title">Computer Technician @ NET</h6>
+													<p>Responsible for maintenance of computers, network and servers. Customer support by telephone and in person.</p>
 												</div>
 											</div>
 										</div>
@@ -292,37 +286,37 @@
 										<div class="row">
 											<div class="col-md-6">
 												<div class="inf text-right">
-													<span class="date">2006 - 2009</span>
+													<span class="date">2019 - Present</span>
 												</div>
 											</div>
 											<div class="col-md-6">
 												<div class="cont pb-50">
-													<h6 class="sm-title">Abc University of Los Angeles.</h6>
-													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+													<h6 class="sm-title">English Course @ OSCARS International</h6>
+													<p>English Student.</p>
 												</div>
 											</div>
 
 											<div class="col-md-6 col-md-push-6">
 												<div class="inf">
-													<span class="date">2004 - 2006</span>
+													<span class="date">2014 - 2016</span>
 												</div>
 											</div>
 											<div class="col-md-6 col-md-pull-6">
 												<div class="cont text-right pb-50">
-													<h6 class="sm-title">Specialization Course.</h6>
-													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+													<h6 class="sm-title">Graduated Degree @ Católica de Santa Catarina.</h6>
+													<p>Sensu Lato in Project Management.</p>
 												</div>
 											</div>
 
 											<div class="col-md-6">
 												<div class="inf text-right">
-													<span class="date">2000 - 2004</span>
+													<span class="date">2010 - 2013</span>
 												</div>
 											</div>
 											<div class="col-md-6">
 												<div class="cont last">
-													<h6 class="sm-title">Abc High School.</h6>
-													<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+													<h6 class="sm-title">Bachelor’s Degree @ Católica de Santa Catarina</h6>
+													<p>Technology in Systems Analysis and Development.</p>
 												</div>
 											</div>
 										</div>
@@ -336,70 +330,33 @@
 		</section>
 		<!-- ====== End Resume ======  -->
 
-		<!--====== Numbers ======-->
-		<div class="numbers section-padding text-center">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-3 col-sm-6">
-						<div class="item">
-							<span class="icon ion-android-favorite"></span>
-							<h5 class="counter">258</h5>
-							<h6 class="sm-title">Happy Clients</h6>
-						</div>
-					</div>
-					<div class="col-md-3 col-sm-6">
-						<div class="item">
-							<span class="icon ion-cube"></span>
-							<h5 class="counter">735</h5>
-							<h6 class="sm-title">Complete Projects</h6>
-						</div>
-					</div>
-					<div class="col-md-3 col-sm-6">
-						<div class="item">
-							<span class="icon ion-android-create"></span>
-							<h5 class="counter">3910</h5>
-							<h6 class="sm-title">Lines of Codes</h6>
-						</div>
-					</div>
-					<div class="col-md-3 col-sm-6">
-						<div class="item">
-							<span class="icon ion-trophy"></span>
-							<h5 class="counter">6</h5>
-							<h6 class="sm-title">Awards Received</h6>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!--====== End Numbers ======-->
-
 		<!--====== Services ======-->
 		<section id="services" class="services section-padding" data-scroll-index="3">
 			<div class="container">
 
 				<div class="section-head">
-					<h3>My Services</h3>
+					<h3>My Knowledge</h3>
 				</div>
 
 				<div class="row">
 					<div class="col-md-4">
 						<div class="item text-center">
 							<span class="icon ion-umbrella"></span>
-							<h6>Web Design</h6>
+							<h6>JAVA</h6>
 							<p>Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit, sed do eiusmod tempor incid idunt ut labore et.</p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="item text-center bord">
 							<span class="icon ion-bowtie"></span>
-							<h6>Development</h6>
+							<h6>Spring Framework</h6>
 							<p>Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit, sed do eiusmod tempor incid idunt ut labore et.</p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="item text-center">
 							<span class="icon ion-paintbucket"></span>
-							<h6>Graphic Design</h6>
+							<h6>Hibernate</h6>
 							<p>Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit, sed do eiusmod tempor incid idunt ut labore et.</p>
 						</div>
 					</div>
@@ -408,21 +365,21 @@
 					<div class="col-md-4">
 						<div class="item text-center">
 							<span class="icon ion-bug"></span>
-							<h6>Clean Code</h6>
+							<h6>HTML/CSS, Sass, Gulp.js</h6>
 							<p>Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit, sed do eiusmod tempor incid idunt ut labore et.</p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="item text-center bord">
 							<span class="icon ion-monitor"></span>
-							<h6>Fully Responsive</h6>
+							<h6>Node.js</h6>
 							<p>Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit, sed do eiusmod tempor incid idunt ut labore et.</p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="item text-center">
 							<span class="icon ion-ios-color-wand"></span>
-							<h6>Problem Solving</h6>
+							<h6>React.js / React Native</h6>
 							<p>Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit, sed do eiusmod tempor incid idunt ut labore et.</p>
 						</div>
 					</div>
@@ -432,231 +389,6 @@
 		</section>
 		<!--====== End Services ======-->
 
-		<!--====== Clients ======-->
-		<section id="clients" class="clients section-padding" data-scroll-index="4">
-			<div class="container">
-				<div class="row">
-
-					<!-- clients carousel -->
-					<div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10">
-						<div class="client-say text-center">
-
-							<span class="icon ion-chatbubbles"></span>
-
-							<div class="owl-carousel owl-theme">
-
-								<!-- client item -->
-								<div class="client-item">
-									<h5>John Doe</h5>
-									<p><i class="fa fa-quote-left" aria-hidden="true"></i> Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean congue, risus utaliquam dapibus. Thanks!. <i class="fa fa-quote-right" aria-hidden="true"></i></p>
-									<h6>Envato</h6>
-								</div>
-
-								<!-- client item -->
-								<div class="client-item">
-									<h5>John Doe</h5>
-									<p><i class="fa fa-quote-left" aria-hidden="true"></i> Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean congue, risus utaliquam dapibus. Thanks!. <i class="fa fa-quote-right" aria-hidden="true"></i></p>
-									<h6>Envato</h6>
-								</div>
-
-								<!-- client item -->
-								<div class="client-item">
-									<h5>John Doe</h5>
-									<p><i class="fa fa-quote-left" aria-hidden="true"></i> Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean congue, risus utaliquam dapibus. Thanks!. <i class="fa fa-quote-right" aria-hidden="true"></i></p>
-									<h6>Envato</h6>
-								</div>
-
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!--====== End Clients ======-->
-
-		<!--====== Portfolio ======-->
-		<section id="works" class="portfolio section-padding" data-scroll-index="5">
-			<div class="container">
-
-				<div class="section-head">
-					<h3>Portfolio</h3>
-				</div>
-
-				<div class="row">
-
-					<!-- filter links -->
-					<div class="filtering text-center mb-50">
-						<span data-filter='*' class="active">All</span>
-						<span data-filter='.brand'>Brand</span>
-						<span data-filter='.web'>Design</span>
-						<span data-filter='.graphic'>Graphic</span>
-					</div>
-
-					<!-- gallery -->
-					<div class="gallery text-center">
-
-						<!-- gallery item -->
-						<div class="col-md-4 items graphic">
-							<div class="item-img">
-							
-							<img src="${appContext }/dist/img/portfolio/1.jpg" alt="image">
-							<div class="item-img-overlay">
-								<div class="overlay-info v-middle text-center">
-									<h6 class="sm-titl">WEB DESIGN</h6>
-									<div class="icons">
-										<span class="icon">
-											<a href="#0">
-												<span class="icon-attachment"></span>
-											</a>
-										</span>
-
-										<span class="icon link">
-											<a href="${appContext }/dist/img/portfolio/1.jpg">
-												<span class="icon-magnifying-glass"></span>
-											</a>
-										</span>
-									</div>
-								</div>
-							</div>
-							</div>
-						</div>
-
-						<!-- gallery item -->
-						<div class="col-md-4 items web">
-							<div class="item-img">
-							
-							<img src="${appContext }/dist/img/portfolio/2.jpg" alt="image">
-							<div class="item-img-overlay">
-								<div class="overlay-info v-middle text-center">
-									<h6 class="sm-titl">WEB DESIGN</h6>
-									<div class="icons">
-										<span class="icon">
-											<a href="#0">
-												<span class="icon-attachment"></span>
-											</a>
-										</span>
-
-										<span class="icon link">
-											<a href="${appContext }/dist/img/portfolio/2.jpg">
-												<span class="icon-magnifying-glass"></span>
-											</a>
-										</span>
-									</div>
-								</div>
-							</div>
-							</div>
-						</div>
-
-						<!-- gallery item -->
-						<div class="col-md-4 items graphic">
-							<div class="item-img">
-							
-							<img src="${appContext }/dist/img/portfolio/3.jpg" alt="image">
-							<div class="item-img-overlay">
-								<div class="overlay-info v-middle text-center">
-									<h6 class="sm-titl">WEB DESIGN</h6>
-									<div class="icons">
-										<span class="icon">
-											<a href="#0">
-												<span class="icon-attachment"></span>
-											</a>
-										</span>
-
-										<span class="icon link">
-											<a href="${appContext }/dist/img/portfolio/3.jpg">
-												<span class="icon-magnifying-glass"></span>
-											</a>
-										</span>
-									</div>
-								</div>
-							</div>
-							</div>
-						</div>
-
-						<!-- gallery item -->
-						<div class="col-md-4 items brand">
-							<div class="item-img">
-							
-							<img src="${appContext }/dist/img/portfolio/4.jpg" alt="image">
-							<div class="item-img-overlay">
-								<div class="overlay-info v-middle text-center">
-									<h6 class="sm-titl">WEB DESIGN</h6>
-									<div class="icons">
-										<span class="icon">
-											<a href="#0">
-												<span class="icon-attachment"></span>
-											</a>
-										</span>
-
-										<span class="icon link">
-											<a href="${appContext }/dist/img/portfolio/4.jpg">
-												<span class="icon-magnifying-glass"></span>
-											</a>
-										</span>
-									</div>
-								</div>
-							</div>
-							</div>
-						</div>
-
-						<!-- gallery item -->
-						<div class="col-md-4 items web graphic">
-							<div class="item-img">
-							
-							<img src="${appContext }/dist/img/portfolio/5.jpg" alt="image">
-							<div class="item-img-overlay">
-								<div class="overlay-info v-middle text-center">
-									<h6 class="sm-titl">WEB DESIGN</h6>
-									<div class="icons">
-										<span class="icon">
-											<a href="#0">
-												<span class="icon-attachment"></span>
-											</a>
-										</span>
-
-										<span class="icon link">
-											<a href="${appContext }/dist/img/portfolio/5.jpg">
-												<span class="icon-magnifying-glass"></span>
-											</a>
-										</span>
-									</div>
-								</div>
-							</div>
-							</div>
-						</div>
-
-						<!-- gallery item -->
-						<div class="col-md-4 items brand">
-							<div class="item-img">
-							
-							<img src="${appContext }/dist/img/portfolio/6.jpg" alt="image">
-							<div class="item-img-overlay">
-								<div class="overlay-info v-middle text-center">
-									<h6 class="sm-titl">WEB DESIGN</h6>
-									<div class="icons">
-										<span class="icon">
-											<a href="#0">
-												<span class="icon-attachment"></span>
-											</a>
-										</span>
-
-										<span class="icon link">
-											<a href="${appContext }/dist/img/portfolio/6.jpg">
-												<span class="icon-magnifying-glass"></span>
-											</a>
-										</span>
-									</div>
-								</div>
-							</div>
-							</div>
-						</div>
-
-					</div>
-				</div>
-			</div>
-		</section>
-		<!--====== End Portfolio ======-->
-
 		<!--====== Hire ======-->
 		<div class="hire section-padding">
 			<div class="container">
@@ -665,10 +397,10 @@
 						<div class="content text-center">
 							<h2>Let's work together !</h2>
 							<h6>I am available for freelance projects.</h6>
-							<a href="#">
+							<a href="#" data-scroll-nav="7">
 								<span class="botn">Hire Me <i class="icon ion-ios-paperplane"></i></span>
 							</a>
-							<a href="#">
+							<a href="https://api.swiftcv.com/public/resume-pdf?handle=cristopher" target="_blank">
 								<span class="botn">Download C.V <i class="icon ion-android-download"></i></span>
 							</a>
 						</div>
@@ -678,222 +410,82 @@
 		</div>
 		<!--====== End Hire ======-->
 
-		<!--====== Blog ======-->
-		<section id="blog" class="blog section-padding" data-scroll-index="6">
-			<div class="container">
-
-				<div class="section-head">
-					<h3>Latest News</h3>
-				</div>
-
-				<div class="row">
-					<div class="col-md-4">
-						<div class="item text-center">
-							<div class="img-post">
-								<a href="blog.html">
-									<img src="${appContext }/dist/img/blog/1.jpg" alt="image">
-								</a>
-							</div>
-							<div class="cont-post">
-								<a href="#">
-									<span class="tag">ThemeForest</span>
-								</a>
-								<a href="blog.html">
-									<h6>Personal Template On ThemeForest</h6>
-								</a>
-								<p>Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit, incid idunt ut labore et.</p>
-								<a href="blog-single.html">
-									<span class="botn">Read More..</span>
-								</a>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-md-4">
-						<div class="item text-center">
-							<div class="img-post">
-								<a href="blog.html">
-									<img src="${appContext }/dist/img/blog/2.jpg" alt="image">
-								</a>
-							</div>
-							<div class="cont-post">
-								<a href="#">
-									<span class="tag">Trends</span>
-								</a>
-								<a href="blog.html">
-									<h6>Exploring 3D & Web Design Trends</h6>
-								</a>
-								<p>Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit, incid idunt ut labore et.</p>
-								<a href="blog-single.html">
-									<span class="botn">Read More..</span>
-								</a>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-md-4">
-						<div class="item text-center">
-							<div class="img-post">
-								<a href="blog.html">
-									<img src="${appContext }/dist/img/blog/3.jpg" alt="image">
-								</a>
-							</div>
-							<div class="cont-post">
-								<a href="#">
-									<span class="tag">WordPress</span>
-								</a>
-								<a href="blog.html">
-									<h6>40 Best WordPress Themes 2017</h6>
-								</a>
-								<p>Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit, incid idunt ut labore et.</p>
-								<a href="blog-single.html">
-									<span class="botn">Read More..</span>
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!--====== End Blog ======-->
-
 		<!--====== Contact ======-->
 		<section id="contact" class="contact section-padding" data-scroll-index="7">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-7">
-
+					<div class="info">
 						<h4 class="head-left">Get In Touch</h4>
-
-						<form class="form" id="contact-form" method="post" action="contact.php">
-	                        <div class="messages"></div>
-
-	                        <div class="controls">
-
-	                            <div class="row">
-	                                <div class="col-md-6">
-	                                    <div class="form-group">
-	                                        <input id="form_name" type="text" name="name" placeholder="Name" required="required" data-error="Firstname is required.">
-	                                        <div class="help-block with-errors"></div>
-	                                    </div>
-	                                </div>
-
-	                                 <div class="col-md-6">
-	                                    <div class="form-group">
-	                                        <input id="form_email" type="email" name="email" placeholder="Email" required="required" data-error="Valid email is required.">
-	                                        <div class="help-block with-errors"></div>
-	                                    </div>
-	                                </div>
-	                            </div>
-	                            <div class="row">
-	                                <div class="col-md-12">
-	                                    <div class="form-group">
-	                                        <input id="form_subject" type="text" name="subject" placeholder="Subject">
-	                                        <div class="help-block with-errors"></div>
-	                                    </div>
-	                                </div>
-	                            </div>
-	                            <div class="row">
-	                                <div class="col-md-12">
-	                                    <div class="form-group">
-	                                        <textarea id="form_message" name="message" placeholder="Message" rows="4" required="required" data-error="Message."></textarea>
-	                                        <div class="help-block with-errors"></div>
-	                                    </div>
-	                                </div>
-	                                <div class="col-sm-12">
-	                                    <input type="submit" value="Send message">
-	                                </div>
-	                            </div>
-	                        </div>
-	                    </form>
-					</div>
-
-					<div class="col-md-offset-1 col-md-4">
-						<div class="info">
-							<div class="item">
+						<div class="row">
+							<div class="col-md-4 col-sm-6 item">
 								<span class="icon ion-android-call"></span>
-								<h6>Phone :<br> <span>+2 ( 100 ) 755 238</span></h6>
+								<h6>Phone :<br> <span>+55 ( 47 ) 99612 5530</span></h6>
 							</div>
-							<div class="item">
+							<div class="col-md-4 col-sm-6 item">
 								<span class="icon ion-ios-location"></span>
-								<h6>Address :<br> <span>3481 Melrose Place, <br
-								>Los Angeles</span></h6>
+								<h6>Address :<br> <span>Dublin, Ireland</span></h6>
 							</div>
-							<div class="item">
+							<div class="col-md-4 col-sm-6 item">
 								<span class="icon ion-ios-email"></span>
-								<h6>Email :<br> <span>alexmartin@gmail.com</span></h6>
+								<h6>Email :<br> <span>cristopher.andre@hotmail.com</span></h6>
 							</div>
-							<!-- social Icon -->
 							<div class="social-icon">
-								<a href="#0">
-									<span><i class="fa fa-facebook" aria-hidden="true"></i></span>
-								</a>
-								<a href="#0">
-									<span><i class="fa fa-twitter" aria-hidden="true"></i></span>
-								</a>
-								<a href="#0">
+								<a href="https://www.linkedin.com/in/cristopher-andré-b0a1412b" target="_blank">
 									<span><i class="fa fa-linkedin" aria-hidden="true"></i></span>
 								</a>
-								<a href="#0">
-									<span><i class="fa fa-pinterest-p" aria-hidden="true"></i></span>
+								<a href="https://app.swiftcv.com/@/cristopher" target="_blank">
+									<span><i class="fa fa-file-text-o" aria-hidden="true"></i></span>
 								</a>
-								<a href="#0">
-									<span><i class="fa fa-instagram" aria-hidden="true"></i></span>
-								</a>
+		
 							</div>
+	
 						</div>
 					</div>
 
 					<div class="col-sm-12 text-center">
-						<p class="copy">Copy Right &copy; By Sam Martin 2017 | ALL RIGHTS RESERVED</p>
+						<p class="copy">Copy Right &copy; By Cristopher André | ALL RIGHTS RESERVED</p>
 					</div>
 				</div>
 			</div>
 		</section>
 		<!--====== End Contact ======-->
        
-
-
-
-
-
-       
         <!-- jQuery -->
-		<script src="${appContext }/dist/js/jquery-3.0.0.min.js"></script>
-		<script src="${appContext }/dist/js/jquery-migrate-3.0.0.min.js"></script>
+		<script src="js/jquery-3.0.0.min.js"></script>
+		<script src="js/jquery-migrate-3.0.0.min.js"></script>
 
 	  	<!-- bootstrap -->
-		<script src="${appContext }/dist/js/bootstrap.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
 
 		<!-- scrollIt -->
-		<script src="${appContext }/dist/js/scrollIt.min.js"></script>
+		<script src="js/scrollIt.min.js"></script>
 
 		<!-- magnific-popup -->
-		<script src="${appContext }/dist/js/jquery.magnific-popup.min.js"></script>
+		<script src="js/jquery.magnific-popup.min.js"></script>
 
 		<!-- owl carousel -->
-		<script src="${appContext }/dist/js/owl.carousel.min.js"></script>
+		<script src="js/owl.carousel.min.js"></script>
 
 		<!-- stellar js -->
-		<script src="${appContext }/dist/js/jquery.stellar.min.js"></script>
+		<script src="js/jquery.stellar.min.js"></script>
 
 		<!-- typed js -->
-      	<script src="${appContext }/dist/js/typed.js"></script>
+      	<script src="js/typed.js"></script>
 
       	<!-- jquery.waypoints.min js -->
-	  	<script src="${appContext }/dist/js/jquery.waypoints.min.js"></script>
+	  	<script src="js/jquery.waypoints.min.js"></script>
 
 	  	<!-- jquery.counterup.min js -->
-	  	<script src="${appContext }/dist/js/jquery.counterup.min.js"></script>
+	  	<script src="js/jquery.counterup.min.js"></script>
 
       	<!-- isotope.pkgd.min js -->
-      	<script src="${appContext }/dist/js/isotope.pkgd.min.js"></script>
+      	<script src="js/isotope.pkgd.min.js"></script>
 
       	<!-- validator js -->
-      	<script src="${appContext }/dist/js/validator.js"></script>
+      	<script src="js/validator.js"></script>
 
       	<!-- custom script -->
-        <script src="${appContext }/dist/js/custom.js"></script>
+        <script src="js/custom.js"></script>
 
     </body>
 
