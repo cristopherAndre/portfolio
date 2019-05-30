@@ -41,7 +41,7 @@
 <%-- 		<link rel="stylesheet" href="${appContext }/dist/css/font-awesome.min.css"> --%>
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 		<!--<link rel="stylesheet" href="css/et-line.css"> -->
-		<link rel="stylesheet" href="${appContext }/dist/css/ionicons.min.css">
+<%-- 		<link rel="stylesheet" href="${appContext }/dist/css/ionicons.min.css"> --%>
 
 		<!-- Core Style Css -->
         <link rel="stylesheet" href="${appContext }/dist/css/style.css">
@@ -139,22 +139,22 @@
 							<div class="info">
 								<div class="row">
 									<div class="col-md-4 col-sm-6">
-										<h5><span><i class="icon ion-person"></i></span>Cristopher André</h5>
+										<h5><span><i class="fas fa-user-tie"></i></span>Cristopher André</h5>
 									</div>
 									<div class="col-md-4 col-sm-6">
-											<h5><span><i class="icon ion-code-working"></i></span>Developer</h5>
+											<h5><span><i class="fas fa-code"></i></span>Developer</h5>
 									</div>
 									<div class="col-md-4 col-sm-6">
-										<h5><span><i class="icon ion-calendar"></i></span>27 January 1992</h5>
+										<h5><span><i class="far fa-calendar-alt"></i></span>27 January 1992</h5>
 									</div>
 									<div class="col-md-4 col-sm-6">
-										<h5><span><i class="icon ion-location"></i></span>Dublin, Ireland</h5>
+										<h5><span><i class="fas fa-map-marker-alt"></i></span>Dublin, Ireland</h5>
 									</div>
 									<div class="col-md-4 col-sm-6">
-										<h5><span><i class="icon ion-android-call"></i></span>+55 ( 47 ) 9 9612 5530</h5>
+										<h5><span><i class="fas fa-phone-volume"></i></span>+55 ( 47 ) 9 9612 5530</h5>
 									</div>
 									<div class="col-md-6 col-sm-6">
-										<h5><span><i class="icon ion-email"></i></span>cristopher.andre@hotmail.com</h5>
+										<h5><span><i class="fas fa-envelope"></i></span>cristopher.andre@hotmail.com</h5>
 									</div>
 									<div class="clear-fix"></div>
 									<!--
@@ -163,7 +163,7 @@
 									</a>
 									-->
 									<a href="#0" data-scroll-nav="7">
-										<span class="butn butn-bg">Hire Me</span>
+										<span class="butn butn-bg">Hire Me &nbsp;<i class="fas fa-paper-plane"></i></span>
 									</a>
 								</div>
 							</div>
@@ -217,12 +217,10 @@
 							<div class="tabs-icon">
 								<ul>
 									<li id="tab-1" class="active">
-										<!-- <span class="ion-briefcase"></span> -->
 										<span><i class="fas fa-briefcase"></i></span>
 										<h6 class="sm-title">EXPERIENCE</h6>
 									</li>
 									<li id="tab-2">
-										<!-- <span class="ion-university"></span> -->
 										<span><i class="fas fa-user-graduate"></i></span>
 										<h6 class="sm-title">EDUCATION</h6>
 									</li>
@@ -347,21 +345,21 @@
 				<div class="row">
 					<div class="col-md-4">
 						<div class="item text-center">
-							<span class="icon ion-umbrella"></span>
+							<span class="icon"><i class="fab fa-java"></i></span>
 							<h6>JAVA</h6>
 							<p>Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit, sed do eiusmod tempor incid idunt ut labore et.</p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="item text-center bord">
-							<span class="icon ion-bowtie"></span>
+							<span class="icon"><i class="fas fa-leaf"></i></span>
 							<h6>Spring Framework</h6>
 							<p>Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit, sed do eiusmod tempor incid idunt ut labore et.</p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="item text-center">
-							<span class="icon ion-paintbucket"></span>
+							<span class="icon"><i class="fas fa-cube"></i></span>
 							<h6>Hibernate</h6>
 							<p>Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit, sed do eiusmod tempor incid idunt ut labore et.</p>
 						</div>
@@ -370,22 +368,26 @@
 					<div class="border"></div>
 					<div class="col-md-4">
 						<div class="item text-center">
-							<span class="icon ion-bug"></span>
-							<h6>HTML/CSS, Sass, Gulp.js</h6>
+							<span class="icon"><i class="fab fa-html5"></i></span>&nbsp;
+							<span class="icon"><i class="fab fa-css3-alt"></i></span>&nbsp;
+							<span class="icon"><i class="fab fa-js-square"></i></span>
+							<span class="icon"><i class="fab fa-sass"></i></span>&nbsp;
+							<span class="icon"><i class="fab fa-gulp"></i></span>&nbsp;
+							<h6>Html | Css | Js |Sass | Gulp.js</h6>
 							<p>Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit, sed do eiusmod tempor incid idunt ut labore et.</p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="item text-center bord">
-							<span class="icon ion-monitor"></span>
+							<span class="icon"><i class="fab fa-node"></i></span>
 							<h6>Node.js</h6>
 							<p>Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit, sed do eiusmod tempor incid idunt ut labore et.</p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="item text-center">
-							<span class="icon ion-ios-color-wand"></span>
-							<h6>React.js / React Native</h6>
+							<span class="icon"><i class="fab fa-react"></i></span>
+							<h6>React.js | React Native</h6>
 							<p>Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit, sed do eiusmod tempor incid idunt ut labore et.</p>
 						</div>
 					</div>
@@ -404,10 +406,10 @@
 							<h2>Let's work together !</h2>
 							<h6>I am available for freelance projects.</h6>
 							<a href="#" data-scroll-nav="7">
-								<span class="botn">Hire Me <i class="icon ion-ios-paperplane"></i></span>
+								<span class="botn">Hire Me &nbsp;<i class="fas fa-paper-plane"></i></span>
 							</a>
 							<a href="https://api.swiftcv.com/public/resume-pdf?handle=cristopher" target="_blank">
-								<span class="botn">Download C.V <i class="icon ion-android-download"></i></span>
+								<span class="botn">Download C.V &nbsp;<i class="fas fa-cloud-download-alt"></i></span>
 							</a>
 						</div>
 					</div>
@@ -424,16 +426,16 @@
 						<h4 class="head-left">Get In Touch</h4>
 						<div class="row">
 							<div class="col-md-4 col-sm-6 item">
-								<span class="icon ion-android-call"></span>
-								<h6>Phone :<br> <span>+55 ( 47 ) 99612 5530</span></h6>
+								<span class="icon"><i class="fas fa-phone-volume"></i></span>
+								<h6>Phone<br> <span>+55 ( 47 ) 99612 5530</span></h6>
 							</div>
 							<div class="col-md-4 col-sm-6 item">
-								<span class="icon ion-ios-location"></span>
-								<h6>Address :<br> <span>Dublin, Ireland</span></h6>
+								<span class="icon"><i class="fas fa-map-marker-alt"></i></span>
+								<h6>Address<br> <span>Dublin, Ireland</span></h6>
 							</div>
 							<div class="col-md-4 col-sm-6 item">
-								<span class="icon ion-ios-email"></span>
-								<h6>Email :<br> <span>cristopher.andre@hotmail.com</span></h6>
+								<span class="icon"><i class="fas fa-envelope"></i></span>
+								<h6>Email<br> <span>cristopher.andre@hotmail.com</span></h6>
 							</div>
 							<div class="social-icon">
 								<a href="https://www.linkedin.com/in/cristopher-andré-b0a1412b" target="_blank">
