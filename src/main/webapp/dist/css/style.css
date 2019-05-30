@@ -255,13 +255,12 @@ p {
   }
 }
 
-/*
-@media screen and (max-width: 899px) {
+
+@media screen and (max-width: 1024px) {
   .header {
     background-image: url(../img/bg-mobile.jpg);
   }
 }
-*/
 
 .header {
   height: 100vh;
