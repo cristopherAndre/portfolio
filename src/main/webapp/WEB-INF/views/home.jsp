@@ -1,17 +1,11 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-	
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ taglib uri="http://www.springframework.org/tags" prefix="s"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
-
 <c:set var="appContext">${pageContext.request.contextPath}</c:set>
-
 <fmt:message key="home.title" var="titleLabel" />
-
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
-
 	<head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -19,33 +13,17 @@
        	<meta name="description" content="Martin is a responsive creative template">
 		<meta name="keywords" content="portfolio, personal, corporate, business, parallax, creative, agency">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
         <link href="${appContext }/dist/img/favicon.ico" rel="icon" type="image/png">
-
 		<!-- bootstrap css -->
 		<link rel="stylesheet" href="${appContext }/dist/css/bootstrap.min.css">
-
 		<!-- google fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Muli:200,300,400,600,700,,800,900|Josefin+Sans:300,400,600,700" rel="stylesheet">
-
-		<!-- owl carousel CSS 
-		<link rel="stylesheet" href="${appContext }/dist/css/owl.carousel.min.css">
-		<link rel="stylesheet" href="${appContext }/dist/css/owl.theme.default.min.css">
-		-->
-
-		<!-- magnific-popup CSS 
-		<link rel="stylesheet" href="${appContext }/dist/css/magnific-popup.css">
-		-->
-
+		
 		<!-- Font Icon Core CSS -->
-<%-- 		<link rel="stylesheet" href="${appContext }/dist/css/font-awesome.min.css"> --%>
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-		<!--<link rel="stylesheet" href="css/et-line.css"> -->
-<%-- 		<link rel="stylesheet" href="${appContext }/dist/css/ionicons.min.css"> --%>
-
+		
 		<!-- Core Style Css -->
         <link rel="stylesheet" href="${appContext }/dist/css/style.css">
-
         <!--[if lt IE 9]-->
 		<script src="${appContext }/dist/js/html5shiv.min.js"></script>
 		<!--[endif]-->
@@ -496,7 +474,4 @@
         <script src="${appContext }/dist/js/custom.js"></script>
 
     </body>
-
-
-
 </html>
