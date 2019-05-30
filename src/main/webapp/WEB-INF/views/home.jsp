@@ -415,6 +415,8 @@
 								<span class="icon"><i class="fas fa-envelope"></i></span>
 								<h6>Email<br> <span>cristopher.andre@hotmail.com</span></h6>
 							</div>
+						</div>
+						<div class="row">
 							<div class="social-icon">
 								<a href="https://www.linkedin.com/in/cristopher-andré-b0a1412b" target="_blank">
 									<span><i class="fab fa-linkedin" aria-hidden="true"></i></span>
@@ -424,7 +426,6 @@
 								</a>
 		
 							</div>
-	
 						</div>
 					</div>
 
