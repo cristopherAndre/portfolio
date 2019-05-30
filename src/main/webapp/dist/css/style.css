@@ -249,17 +249,19 @@ p {
 /* -------------------------------------------------------
                      Header 
 -------------------------------------------------------- */
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 1024px) {
   .header {
     background-image: url(../img/bg.jpg);
   }
 }
 
+/*
 @media screen and (max-width: 899px) {
   .header {
     background-image: url(../img/bg-mobile.jpg);
   }
 }
+*/
 
 .header {
   height: 100vh;
