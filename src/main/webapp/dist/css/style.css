@@ -1279,6 +1279,7 @@ p {
 }
 .contact .info .social-icon span {
   margin: 0 15px;
+  font-size: 20px;
 }
 .contact .info .social-icon span:hover {
   color: #7159C1;
